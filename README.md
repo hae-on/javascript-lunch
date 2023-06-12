@@ -28,7 +28,7 @@
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/feb-dain" target="_blank">
+      <a href="https://github.com/Dahyeeee" target="_blank">
         헤다(윤다혜)
       </a>
     </td>
